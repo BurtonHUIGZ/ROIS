@@ -55,3 +55,4 @@ class RosiSpider(scrapy.Spider):
 
     def errback(self):
         pass
+
